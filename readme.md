@@ -22,8 +22,7 @@ Provide a file named products.csv containing product data — including name, ca
 
 Clone this repository
 
-git clone https://github.com/yourusername/ai-product-description-generator.git
-cd ai-product-description-generator
+git clone https://github.com/eskiwa/ProductDescriptionAutomation.git
 
 Install dependencies
 
@@ -74,3 +73,4 @@ CSV (built-in Python library)
 
 This project is open-source under the MIT License
 .
+
